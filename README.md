@@ -130,6 +130,10 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 
 ---
 
+## React icons
+
+- :file_folder: [react icons ](https://react-icons.github.io/react-icons/)
+
 ## WEB-3
 
 - :video_camera: [Learn Web-3](https://learnweb3.io/)
