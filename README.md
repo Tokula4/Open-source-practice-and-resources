@@ -140,6 +140,14 @@ To add resources or to contribute read the [Cotribution-guide](https://github.co
 
 - :file_folder :[Next.JS Documentation](https://nextjs.org/docs)
 
+## Nextjs13
+
+- :file_folder :[Next.js Blog](https://nextjs.org/blog/next-13)
+
+## Redux
+
+- :file_folder :[redux.js tutorial ](https://redux-toolkit.js.org/tutorials/overview)
+
 ## Tailwind css
 
 - :file_folder :[Tailwind Css Documentation](https://tailwindcss.com/docs/installation)
